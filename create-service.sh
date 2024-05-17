@@ -17,4 +17,5 @@ EOF
 sudo systemctl daemon-reload
 sudo systemctl enable availightd
 
+
 echo "Service created, start with start-service.sh"
